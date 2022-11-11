@@ -1,6 +1,7 @@
 # computer-vision
+INSTALL YOLOV5 BEFOREHAND! ----->>>> (https://github.com/ultralytics/yolov5)
 # Testing on images:
- py detect.py --weights 'path to robot_detection.pt' --source 'Your image path here'
+py detect.py --weights 'path to robot_detection.pt' --source 'path to test image'
 
 
 
